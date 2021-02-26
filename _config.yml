@@ -6,7 +6,8 @@ url: http://aktuarium.com
 title: Aktuarium - Awesome Actuarial Advice
 email: info@aktuarium.com
 author: Timea Szili
-description: Aktuarium is a freelance beaureau providing certified actuarial services to insurance companies. > # "Write an awesome description for your new site here. 
+description: > # "Write an awesome description for your new site here. 
+  Aktuarium is a freelance beaureau providing certified actuarial services to insurance companies. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
