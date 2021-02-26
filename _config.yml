@@ -8,9 +8,7 @@ email: info@aktuarium.com
 author: Timea Szili
 description: > # "Write an awesome description for your new site here. 
   Aktuarium is a freelance beaureau providing certified actuarial services to insurance companies. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+  
 copyright: 'Copyright &copy; 2021 Aktuarium. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -28,8 +26,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/aktuarium
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/PixieBurger
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/t%C3%ADmea-szili-a0a11416/
