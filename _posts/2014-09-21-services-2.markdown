@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Artificial Intelligence
+title: Insurance Analitics
+description: |
+---
+  Growing advancement of computer technology and artificial intelligence is changing our everyday life. Actuarial profession is not any differently impacted.
